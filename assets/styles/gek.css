@@ -162,40 +162,6 @@ footer {
     width: 100%;
 }
 
-.regie {
-    z-index: -1000000;
-    position: fixed;
-}
-
-.pub {
-    width: 37%;
-    border: 2px dashed orange;
-}
-
-#pub1 {
-    top: 20%;
-    text-align: left;
-    left: 0%;
-}
-
-#pub2 {
-    top: 20%;
-    text-align: right;
-    right: 0%;
-}
-
-#pub3 {
-    top: 50%;
-    text-align: left;
-    left: 0%;
-}
-
-#pub4 {
-    top: 50%;
-    text-align: right;
-    right: 0%;
-}
-
 #name_banner {
     width: 92%;
 }
