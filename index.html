@@ -625,14 +625,7 @@
         })        
       ]]>
       </script>
-    </svg>
-    <script>
-      if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register(
-          '/sw.js'
-        );
-      }
-    </script>
+    </svg>    
   </div>
 <footer>
   <div class="footer_container-social">
@@ -648,5 +641,12 @@
           id="logo_image" /></a></p>
   </div>
 </footer>
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register(
+      '/sw.js'
+    );
+  }
+</script>
 </body>
 </html>
