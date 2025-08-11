@@ -6,6 +6,14 @@ A digital Gwoka drum using sound samples from ![matthCorvo/Mon-GWOKA-Drum-kit pr
 
 Demo site : https://gwada-e-ka.digital-plus-experience.com/
 
+## Tests and Performance
+
+The audio performance of the application depends on the hardware implementation in which it is installed.
+The application has been tested with satisfactory results on the following physical devices:
+
+- Galaxy Note 9
+- Galaxy Tab 9+
+
 ## Ressources:
 
 - Samples gwoka : https://matthcorvo.github.io/Mon-GWOKA-Drum-kit/
